@@ -1,0 +1,13 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(RugeBoogie-Regular.ttf);
+}
+
+#myCanvas {
+	border: 1px solid black;
+}
+
+p {
+	font-family: Tangerine;
+	font-size: 50px;
+}
